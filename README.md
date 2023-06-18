@@ -44,5 +44,5 @@ The saved weights of the final optimized CNN-LSTM load forecasting model.
 
 ### Contact
 - **Email:** n.s.athanasiou@gmail.com
-- **LinkedIn:** linkedin.com/in/athanasiou-n/
-- **GitHub:** github.com/athanasion
+- **LinkedIn:** [linkedin.com/in/athanasiou-n](linkedin.com/in/athanasiou-n)
+- **GitHub:** [github.com/athanasion](github.com/athanasion)
